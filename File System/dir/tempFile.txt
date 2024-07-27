@@ -1,0 +1,2 @@
+Hello This is my first lecture of the node js series
+The capital of india is new Delhi
